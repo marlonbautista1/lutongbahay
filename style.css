@@ -1,0 +1,780 @@
+ body{
+    background-image: url(7.jpg);
+    background-repeat:no-repeat;
+    background-size:cover ;
+  }
+    .log{
+    margin-left:40px;
+  }
+.uuu th {
+  background-color:brown;
+  font-size: 30px;
+  border-radius: 15px;
+  margin-left: 500px
+}
+tr.uuu th img{
+  border-radius: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  height: 60%;
+  width: 60%;
+}
+.ooo {
+  text-align: center;
+  background-color: brown;
+  border-radius: 5px
+}
+.b {
+  text-align: center;
+background-color: red;
+color: white;
+border-radius: 5px;
+}
+.d {
+  background-color: rgb(170, 136, 44);
+  cursor: pointer;
+margin-left: 600px;
+}
+
+  .q1 {
+   display: block;
+    width: 600px;
+    height: 600px;
+    margin-left:auto;
+    margin-right: auto;
+     border-radius: 350px 350px 350px 350px;
+
+  }
+
+}
+ .ff1 {
+    text-align: center;
+   }   
+
+  }
+  .ff1 {
+  overflow: hidden;
+   background-color:rgb(255,0,0);
+   position: fixed;
+ top: 0;
+  width: 100%;
+}
+.ff1 a {
+float: right;
+  display: block;
+  color:black;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+
+}
+div.ff1 a:hover {
+float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+transition: .4s;
+background-color: gray;
+
+}
+.v1 {
+      text-align: center;
+      color:white;
+      text-shadow: 2px 2px 5px grey;
+    }
+       body{
+    background-image: url(7.jpg);
+    background-repeat:no-repeat;
+    background-size:cover ;
+  }
+
+
+      .b {
+  text-align: center;
+background-color: red;
+color: white;
+border-radius: 5px;
+}
+.d {
+  background-color: rgb(170, 136, 44);
+  cursor: pointer;
+margin-left: 600px;
+}
+
+  .q2 {
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+     border-radius: 150px 150px 150px 150px;
+  }
+
+
+  .g{
+    background-color:brown;
+    border-radius:  7px;
+    border-color: none;
+    color: white;
+text-align: center;
+
+  }
+
+.haha {
+  text-align: center;
+  text-shadow: 2px 2px 5px white;
+  background-color: brown;
+}
+.p {
+  background-color: red;
+  color: white;
+  margin-left: 300px;
+}
+.fff th {
+  background-color:brown;
+  font-size: 30px;
+  border-radius: 15px;
+}
+tr.fff th img{
+  border-radius: 15px;
+  margin-top: 10px;
+  height: 100px;
+  width: 240px;
+}
+
+   .ff2 {
+    margin-left: 100px;
+   }   
+
+  }
+  .ff2 {
+  overflow: hidden;
+   position: fixed;
+ top: 0;
+  width: 100%;
+}
+.ff2 a {
+float: right;
+  display: block;
+  color:black;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+
+}
+div.ff2 a:hover {
+float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+transition: .4s;
+background-color: gray;
+
+}
+.v2 {
+      text-align: center;
+      color:white;
+      text-shadow: 2px 2px 5px grey;
+    }
+     body{
+    background-image: url(7.jpg);
+    background-repeat:no-repeat;
+    background-size:cover ;
+  }
+  .q3 {
+    width: 300px;
+    height: 300px;
+    margin-left: 500px;
+    border-radius: 150px 150px 150px 150px;
+  }
+    .z {
+      width: 50px;
+      height: 50px;
+      border-radius: 3px 3px 3px 3px;
+    }
+
+
+.dada {
+  text-align: center;
+  color: black;
+  background-color: red;
+}
+.xx {
+
+  width: 300px;
+    height: 300px;
+    margin-left: 500px;
+     border-radius: 150px 150px 150px 150px;
+}
+.j1 {
+  text-align: center;
+  font-size: 130px;
+  background-color:brown;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+.j2 {
+  text-align: center;
+  background-color:brown;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 30px;
+  width: 1200px;
+  border-radius: 10px;
+}
+.j3 {
+  text-align: center;
+  background-color: brown;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 30px;
+  width: 650px;
+  border-radius: 10px;
+}
+.j4 {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+background-color:brown;
+width: 650px;
+padding: 10px 0px;
+margin-left: auto;
+margin-right: auto;
+border-radius: 10px;
+}
+
+      .ffff {
+        margin-left: 100px;
+
+      }
+
+  }
+  .ffff {
+  overflow: hidden;
+   background-color:rgb(255,0,0);
+   position: fixed;
+ top: 0;
+  width: 100%;
+}
+.ffff a {
+float: right;
+  display: block;
+  color:black;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+
+}
+div.ffff a:hover {
+float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+transition: .4s;
+background-color: gray;
+
+}
+.v3 {
+      text-align: center;
+      color:white;
+      text-shadow: 2px 2px 5px grey;
+    }
+    body{
+    background-image: url(7.jpg);
+    background-repeat:no-repeat;
+    background-size:cover ;
+  }
+.q4 {
+    width: 300px;
+    height: 300px;
+    margin-left: 500px;
+    border-radius: 150px 150px 150px 150px;
+  }
+.w {
+  text-align: center;
+  color: white;
+  background-color: brown;
+  font-size: 40px;
+}
+.hhh {
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+  height: 500px;
+  width: 1000px;
+
+}
+.y {
+  color: black;
+  font-size: 40px;
+  text-align: center;
+background-color:brown;
+width: 650px;
+padding: 10px 0px;
+margin-left: auto;
+margin-right: auto;
+border-radius: 15px;
+}
+.z3 {
+  overflow: hidden;
+ top: 0;
+  width: 15%;
+}
+.z3 a {
+  display: block;
+  color:black;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+
+}
+div.z3 a:hover {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+transition: .4s;
+background-color: gray;
+
+}
+ .ff4 {
+        margin-left: 100px;
+      }
+
+  }
+  .ff4 {
+  overflow: hidden;
+   background-color:rgb(255,0,0);
+   position: fixed;
+ top: 0;
+  width: 100%;
+}
+.ff4 a {
+float: right;
+  display: block;
+  color:black;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+
+}
+div.ff4 a:hover {
+float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+transition: .4s;
+background-color: gray;
+
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:700px) {
+  body{
+    background-image: url(7.jpg);
+    background-repeat:no-repeat;
+    background-size:cover ;
+  }
+    .log{
+    margin-left:40px;
+  }
+.ooo {
+  text-align: center;
+  background-color: brown;
+  border-radius: 5px
+}
+
+.b {
+  text-align: center;
+background-color: red;
+color: white;
+border-radius: 5px;
+font-size: 50px;
+}
+.d {
+  background-color: rgb(170, 136, 44);
+  cursor: pointer;
+margin-left: 600px;
+}
+
+  .q1 {
+   display: block;
+    width: 600px;
+    height: 600px;
+    margin-left:auto;
+    margin-right: auto;
+     border-radius: 350px 350px 350px 350px;
+
+  }
+
+ .ff1 {
+    text-align: center;
+   }   
+
+
+  .ff1 {
+  overflow: hidden;
+
+   position: fixed;
+ top: 0;
+  width: 100%;
+}
+.ff1 a {
+float: right;
+  display: block;
+  color:black;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+
+}
+div.ff1 a:hover {
+float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+transition: .4s;
+background-color: gray;
+
+}
+.v1 {
+      text-align: center;
+      color:white;
+      text-shadow: 2px 2px 5px grey;
+    }
+       body{
+    background-image: url(7.jpg);
+    background-repeat:no-repeat;
+    background-size:cover ;
+  }
+
+
+      .b {
+  text-align: center;
+background-color: red;
+color: white;
+border-radius: 5px;
+}
+.d {
+  background-color: rgb(170, 136, 44);
+  cursor: pointer;
+margin-left: 600px;
+}
+
+  .q2 {
+    width: 300px;
+    height: 300px;
+    margin-left:auto;
+    margin-right: auto;
+    display: block;
+     border-radius: 100%;
+  }
+
+
+  .g{
+    background-color:brown;
+    border-radius:  10px;
+    border-color: none;
+    color: white;
+text-align: center;
+font-size: 50px;
+width: 300px;
+margin-left: auto;
+margin-right: auto;
+
+  }
+
+.haha {
+  text-align: center;
+  text-shadow: 2px 2px 5px white;
+  background-color: brown;
+  font-size: 40px;
+}
+.p {
+  background-color: red;
+  color: white;
+  margin-left: 300px;
+}
+.fff th {
+  background-color:brown;
+  font-size: 30px;
+  border-radius: 15px;
+}
+tr.fff th img{
+  border-radius: 15px;
+  margin-top: 10px;
+  height: 100px;
+  width: 240px;
+}
+  }
+  .ff2 {
+  overflow: hidden;
+ top: 0;
+  width: 100%;
+  margin-left: auto;
+
+}
+.ff2 a {
+float: right;
+  display: block;
+  color:black;
+  text-align: center;
+  padding: 5px 24px;
+  text-decoration: none;
+  font-size: 35px;  
+}
+div.ff2 a:hover {
+float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px 24px;
+  text-decoration: none;
+  font-size: 35px;
+transition: .4s;
+background-color: gray;
+
+}
+.v2 {
+      text-align: center;
+      color:white;
+      text-shadow: 2px 2px 5px grey;
+    }
+     body{
+    background-image: url(7.jpg);
+    background-repeat:no-repeat;
+    background-size:cover ;
+  }
+  .q3 {
+    width: 300px;
+    height: 300px;
+    margin-left: 500px;
+    border-radius: 150px 150px 150px 150px;
+  }
+    .z {
+      width: 50px;
+      height: 50px;
+      border-radius: 3px 3px 3px 3px;
+    }
+
+
+.dada {
+  text-align: center;
+  color: black;
+  background-color: red;
+}
+.xx {
+
+  width: 300px;
+    height: 300px;
+    margin-left: 500px;
+     border-radius: 150px 150px 150px 150px;
+}
+.j1 {
+  text-align: center;
+  font-size: 130px;
+  background-color:brown;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+.j2 {
+  text-align: center;
+  background-color:brown;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 30px;
+  width: 850px;
+  border-radius: 10px;
+}
+.j3 {
+  text-align: center;
+  background-color: brown;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 30px;
+  width: 650px;
+  border-radius: 10px;
+}
+.j4 {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+background-color:brown;
+width: 650px;
+padding: 10px 0px;
+margin-left: auto;
+margin-right: auto;
+border-radius: 10px;
+}
+
+      .ffff {
+        margin-left: 100px;
+
+      }
+
+
+  .ffff {
+  overflow: hidden;
+   background-color:rgb(255,0,0);
+   position: fixed;
+ top: 0;
+  width: 100%;
+}
+.ffff a {
+float: right;
+  display: block;
+  color:black;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+
+}
+div.ffff a:hover {
+float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+transition: .4s;
+background-color: gray;
+
+}
+.v3 {
+      text-align: center;
+      color:white;
+      text-shadow: 2px 2px 5px grey;
+    }
+    body{
+    background-image: url(7.jpg);
+    background-repeat:no-repeat;
+    background-size:cover ;
+  }
+.q4 {
+    width: 300px;
+    height: 300px;
+    margin-left: 500px;
+    border-radius: 150px 150px 150px 150px;
+  }
+.w {
+  text-align: center;
+  color: white;
+  background-color: brown;
+  font-size: 40px;
+}
+.hhh {
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+  height: 500px;
+  width: 800px;
+
+}
+.y {
+  color: black;
+  font-size: 40px;
+  text-align: center;
+background-color:brown;
+width: 650px;
+padding: 10px 0px;
+margin-left: auto;
+margin-right: auto;
+border-radius: 15px;
+}
+.z3 {
+  overflow: hidden;
+ top: 0;
+  width: 15%;
+}
+.z3 a {
+  display: block;
+  color:black;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+
+}
+div.z3 a:hover {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+transition: .4s;
+background-color: gray;
+
+}
+ .ff4 {
+        margin-left: 100px;
+      }
+
+  }
+  .ff4 {
+  overflow: hidden;
+   background-color:rgb(255,0,0);
+   position: fixed;
+ top: 0;
+  width: 100%;
+}
+.ff4 a {
+float: right;
+  display: block;
+  color:black;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+
+}
+div.ff4 a:hover {
+float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px 35px;
+  text-decoration: none;
+  font-size: 35px;
+transition: .4s;
+background-color: gray;
+
+}
+}
